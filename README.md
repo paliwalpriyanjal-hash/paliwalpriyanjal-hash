@@ -25,12 +25,6 @@ I’m passionate about **coding, startups, problem-solving**, and turning ideas 
 
 ---
 
-## 🏆 Achievements & Milestones
-
-🚀 **Founder & Builder**
-- 🛒 **Mojookart** – Product, category & order management system  
-- 👕 **Fash.ionfellow904** – Men’s fashion e-commerce brand  
-
 💻 **Tech Growth**
 - Built **modern, responsive websites**
 - Strong grip on **C++ & Data Structures**
