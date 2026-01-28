@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Priyanjal%20Paliwal&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h2 align="center">🚀 AIR Student | Builder | Dreamer | Future Googler</h2>
+<h2 align="center">🚀 IT(AIR) Student | Builder | Dreamer | Future Googler</h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=B.Tech+2nd+Year+Student;Artificial+Intelligence+%26+Robotics;Web+Developer+%26+Entrepreneur;Building+Real-World+Projects" />
