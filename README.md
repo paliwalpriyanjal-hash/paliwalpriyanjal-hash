@@ -3,10 +3,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Priyanjal%20Paliwal&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h2 align="center">🚀 IT(AIR) Student | Builder | Dreamer | Future Googler</h2>
+<h2 align="center">🚀 IT(AIR) Student | ML Learner</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=B.Tech+2nd+Year+Student;Artificial+Intelligence+%26+Robotics;Web+Developer+%26+Entrepreneur;Building+Real-World+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=B.Tech+2nd+Year+Student;Artificial+Intelligence+%26+Robotics;C%2B%2B+%26+Python;Learning+Machine+Learning" />
 </p>
 
 ---
@@ -18,23 +18,24 @@
 👋 Hey! I’m **Priyanjal Paliwal**, a **2nd-year B.Tech student** specializing in  
 🤖 **Artificial Intelligence & Robotics (AIR)** at **MITS Gwalior**.
 
-I believe in one thing:  
+I am currently learning **machine learning** and strengthening my skills in **C++ and problem-solving**.
+
 > **“Don’t just learn technology — build with it.”**
 
-I’m passionate about **coding, startups, problem-solving**, and turning ideas into **real products**.
+I’m interested in **coding, problem-solving**, and applying concepts through **projects**.
 
 ---
 
 💻 **Tech Growth**
-- Built **modern, responsive websites**
-- Strong grip on **C++ & Data Structures**
-- Solved multiple **DSA & logic-based problems**
-- Hands-on with **frontend–backend integration**
+- Practicing **C++ & Data Structures**
+- Solving **DSA & logic-based problems**
+- Learning **Python for ML**
+- Basic knowledge of **HTML, CSS, JavaScript**
 
 🧠 **Exploring**
 - Machine Learning fundamentals  
-- AI-based system thinking  
-- Scalable software design  
+- Model building & evaluation  
+- AI-based problem solving  
 
 ---
 
@@ -47,22 +48,19 @@ I’m passionate about **coding, startups, problem-solving**, and turning ideas 
 
 🎯 **Core Focus Areas**
 - Data Structures & Algorithms  
-- Web Development  
-- AI & ML Basics  
-- Software Project Architecture  
+- Machine Learning Basics  
 
 ---
 
 ## 🛠️ Tech Stack (My Weapons ⚔️)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,js,html,css,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,git,github,vscode" />
 </p>
 
 ```txt
-Languages        : C++, JavaScript
-Web Dev          : HTML, CSS, Responsive UI
+Languages        : C++, Python, JavaScript
+Frontend Basics  : HTML, CSS
 Programming      : DSA, OOP, Problem Solving
-Backend (Basic)  : Logic, Data Handling
-AI/ML            : Learning Phase
+AI/ML            : Basics (Learning Phase)
 Tools            : Git, GitHub, VS Code
