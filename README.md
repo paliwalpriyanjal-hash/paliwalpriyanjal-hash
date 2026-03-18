@@ -13,7 +13,7 @@
 
 ## 🧑‍🚀 Who Am I?
 
-<img align="right" width="280" src="https://user-images.githubusercontent.com/74038190/212897774-8f2aef2c-9eaa-4d19-bfe1-47e1bff0b1c2.gif"/>
+<img align="right" width="260" src="https://user-images.githubusercontent.com/74038190/212897774-8f2aef2c-9eaa-4d19-bfe1-47e1bff0b1c2.gif"/>
 
 👋 Hey! I’m **Priyanjal Paliwal**, a **2nd-year B.Tech student** specializing in  
 🤖 **Artificial Intelligence & Robotics (AIR)** at **MITS Gwalior**.
@@ -26,41 +26,88 @@ I’m interested in **coding, problem-solving**, and applying concepts through *
 
 ---
 
-💻 **Tech Growth**
+## 📈 Tech Growth
+
 - Practicing **C++ & Data Structures**
 - Solving **DSA & logic-based problems**
-- Learning **Python for ML**
+- Learning **Python for Machine Learning**
 - Basic knowledge of **HTML, CSS, JavaScript**
-
-🧠 **Exploring**
-- Machine Learning fundamentals  
-- Model building & evaluation  
-- AI-based problem solving  
 
 ---
 
 ## 🎓 Academic Snapshot
 
-📌 **Degree:** B.Tech  
-📌 **Branch:** Artificial Intelligence & Robotics (AIR)  
-📌 **Year:** 2nd Year  
-📌 **College:** MITS Gwalior  
-
-🎯 **Core Focus Areas**
-- Data Structures & Algorithms  
-- Machine Learning Basics  
+- 🎓 **Degree:** B.Tech  
+- 🤖 **Branch:** Artificial Intelligence & Robotics  
+- 📅 **Year:** 2nd Year  
+- 🏫 **College:** MITS Gwalior  
 
 ---
 
-## 🛠️ Tech Stack (My Weapons ⚔️)
+## 📌 Core Focus Areas
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,git,github,vscode" />
+- Data Structures & Algorithms  
+- Machine Learning Basics  
+- Problem Solving  
+
+---
+
+## 🛠️ Skills
+
+### 👨‍💻 Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
-```txt
-Languages        : C++, Python, JavaScript
-Frontend Basics  : HTML, CSS
-Programming      : DSA, OOP, Problem Solving
-AI/ML            : Basics (Learning Phase)
-Tools            : Git, GitHub, VS Code
+### ⚙️ Development & Tools
+<p>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
+
+### 🧠 Core Concepts
+<p>
+  <img src="https://img.shields.io/badge/DSA-Informational?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OOP-Informational?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Problem%20Solving-Informational?style=for-the-badge" />
+</p>
+
+### 🤖 Machine Learning
+<p>
+  <img src="https://img.shields.io/badge/ML%20Basics-Informational?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data%20Preprocessing-Informational?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Model%20Building-Informational?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Model%20Evaluation-Informational?style=for-the-badge" />
+</p>
+
+---
+
+## 📈 Projects
+
+- 🏠 House Price Prediction (Machine Learning)  
+- 🩺 Disease Prediction System  
+- 🌐 Basic Web Development Projects  
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="mailto:paliwalpriyanjal@gmail.com">
+    <img src="https://img.shields.io/badge/Email-paliwalpriyanjal%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/priyanjal-paliwal-806534331" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Priyanjal%20Paliwal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+⭐ *Currently learning, building, and improving step by step.*
